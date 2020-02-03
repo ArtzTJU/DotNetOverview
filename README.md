@@ -2,7 +2,7 @@
 .NET Overview - introduction to ecosystem
 ---
 Presentation created for purposes of Education Nights event within [CN GROUP](https://www.cngroup.dk/) company.
-View presentation [here](https://artztju.github.io/.Net-Overview).
+View presentation [here](https://artztju.github.io/DotNetOverview).
 
 Presentation only in czech.
 Will be presented on 1.4.2020.
@@ -17,3 +17,9 @@ Pro začátečníky toto může sloužit jako vstupní braná do této technolog
 
 
 #### Made with [reveal.js](http://revealjs.com/)
+
+License
+---
+MIT licensed
+
+Copyright (C) 2020 Hakim El Hattab, http://hakim.se
