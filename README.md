@@ -17,9 +17,3 @@ Pro začátečníky toto může sloužit jako vstupní braná do této technolog
 
 
 #### Made with [reveal.js](http://revealjs.com/)
-
-License
----
-MIT licensed
-
-Copyright (C) 2020 Hakim El Hattab, http://hakim.se
