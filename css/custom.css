@@ -1,0 +1,11 @@
+.text-red {
+    color: #ed1848 !important;
+  }
+  
+  .inline {
+    display: inline;
+  }
+
+td {
+    border-bottom: 0px !important;
+}

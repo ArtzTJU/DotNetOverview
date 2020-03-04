@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/reveal.css">
 	<link rel="stylesheet" href="css/night.css">
+	<link rel="stylesheet" href="css/custom.css">
 </head>
 
 <body>
@@ -52,31 +53,49 @@
 				<section>
 					<h2 class="text-red">Common Intermediate Language</h2>
 					<h3>CIL</h3>
+					<h4 class="fragment text-red">C#</h4>
+					<h4 class="fragment text-red">C++</h4>
+					<h4 class="fragment text-red">F#</h4>
+					<h4 class="fragment text-red">Python</h4>
 				</section>
-				<section>
-					<h2 class="text-red">Common Language Runtime</h2>
-					<h3>CLR</h3>
-				</section>
-			</section>
-			<section>
-				<h2>CLI</h2>
-				<h3 class="fragment text-red">.NET Framework</h3>
-				<small class="fragment">Compact / Micro</small>
-				<h3 class="fragment text-red">.NET Core</h3>
-				<h3 class="fragment text-red">Mono</h3>
-			</section>
-			<section>
-				<section>
-					<h2>CIL</h2>
-					<h3 class="fragment text-red">C#</h3>
-					<h3 class="fragment text-red">C++</h3>
-					<h3 class="fragment text-red">F#</h3>
-					<h3 class="fragment text-red">Python</h3>
-				</section>
-				
 				<section>
 					<h2>Příklad C# -> IL</h2>
 					<small>Pomocí nástroje <span class="text-red">ILSPY</span></small>
+				</section>
+			</section>
+			<section>
+				<section>
+					<h2>Implementace .NET</h2>
+					<h3 class="fragment text-red">.NET Framework</h3>
+					<h3 class="fragment text-red">.NET Core</h3>
+				</section>
+				<section>
+					<table>
+						<thead>
+							<tr>
+								<th>.NET Framework</th>
+								<th>.NET Core</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									<div class="text-red">Common Language Runtime</div>
+								</td>
+								<td>
+									<div class="text-red">CoreCLR</div>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<div class="text-red">Framework Class Library</div>
+								</td>
+								<td>
+									<div class="text-red">CoreFX</div>
+								</td>
+							</tr>
+						</tbody>
+					</table>
 				</section>
 			</section>
 		</div>
